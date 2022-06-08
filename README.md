@@ -7,8 +7,6 @@ A short course on adversarial machine learning.
 
 **PhD programme in Electronic and Computer Engineering (Univ. Cagliari)**
 
-**MSc in Computer Engineering, Cybersecurity and Artificial Intelligence (Univ. Cagliari)**
-
 **GitHub repository for course material:** [https://github.com/unica-mlsec/mlsec-phd](https://github.com/unica-mlsec/mlsec-phd)
 
 **Course objectives and outcome**
