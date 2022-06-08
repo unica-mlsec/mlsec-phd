@@ -27,8 +27,8 @@ An ability to analyse and evaluate attacks and defenses in the context of applic
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
 **Class schedule/Course Outline (20 hours, 2 CFU)**
-1. [Introduction to Machine Learning Security: Threat Models and Attacks]  
-2. [Evasion attacks and countermeasures] 
-4. [Poisoning attacks and countermeasures]
-5. [Backdoor poisoning, privacy-related threats, and defenses] 
-6. [Practical session with Python] 
+1. Introduction to Machine Learning Security: Threat Models and Attacks
+2. Evasion attacks and countermeasures
+4. Poisoning attacks and countermeasures
+5. Backdoor poisoning, privacy-related threats, and defenses
+6. Practical session with Python
