@@ -33,4 +33,4 @@ An ability to design and evaluate robust machine learning models with Python and
 4. Poisoning attacks and countermeasures - Sept. 14, 10-13, room M 
 5. Backdoor poisoning, privacy-related threats, and defenses - Sept. 15, 10-13, room M 
 6. Practical session with Python - Sept., 20, 10-13, multifunctional laboratory 
-Written exam - Sept. 22, 10-13, multifunctional laboratory 
+7. Written exam - Sept. 22, 10-13, multifunctional laboratory 
