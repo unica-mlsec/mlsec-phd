@@ -1,7 +1,7 @@
 ## Machine Learning Security 
 A short course on adversarial machine learning.
 
-**Academic Year 2021-2022**
+**Academic Year 2022-2023**
 
 **Instructor:** Dr. Ambra Demontis
 
