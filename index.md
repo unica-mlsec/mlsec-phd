@@ -5,9 +5,9 @@ A short course on adversarial machine learning.
 
 **Instructor:** Dr. Ambra Demontis
 
-**PhD programme in Electronic and Computer Engineering (Univ. Cagliari)**
+**Modality:** Online
 
-**Modality** Online
+**PhD programme in Electronic and Computer Engineering (Univ. Cagliari)**
 
 **GitHub repository for course material:** [https://github.com/unica-mlsec/mlsec-phd](https://github.com/unica-mlsec/mlsec-phd)
 
